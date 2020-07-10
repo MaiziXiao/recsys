@@ -13,8 +13,8 @@ xlearn = "^0.40a1"
 scikit-learn = "^0.23.1"
 pyfm = "^0.2.4"
 matplotlib = "^3.2.1"
-tensorflow = "2.2.0"
 setuptools = "^47.3.1"
+tensorflow = "^2.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
