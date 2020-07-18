@@ -1,4 +1,4 @@
-from recsys_algorithms import __version__
+from recsys import __version__
 
 
 def test_version():
