@@ -154,10 +154,5 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-.idea/.gitignore
-.idea/inspectionProfiles/
-.idea/misc.xml
-.idea/modules.xml
-.idea/recsys.iml
-.idea/vcs.xml
+recsys/.idea/
 recsys/logs/
